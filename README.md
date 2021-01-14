@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Kwangwoon Univ. Computer Engineering 💻 (2015.03 ~ )
 - 🌱 I’m currently learning Deep Learning, GAN, Image Inpainting, Algorithms
-- 👯 I’m looking to collaborate on SAMSUNG
+- 👯 I’m looking to collaborate on NAVER
 - 📫 How to reach me: pts322@kw.ac.kr
 
 ---
