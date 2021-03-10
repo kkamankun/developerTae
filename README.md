@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on NAVER
 - 📫 How to reach me: pts322@kw.ac.kr
 
-### Interest
+### Interests
 
 - BE, Server, MSA
 - Java, Python, Node.js
