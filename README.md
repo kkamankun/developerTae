@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Kwangwoon Univ. Computer Engineering 💻 (2015.03 ~ )
-- 👯 I’m looking to collaborate on NAVER
+- 👯 I’m looking to collaborate on Woowa Bros.
 - 📫 How to reach me: pts322@kw.ac.kr
 
 ### Interests
