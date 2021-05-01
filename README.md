@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Kwangwoon Univ. Computer Engineering 💻 (2015.03 ~ )
-- 👯 I’m looking to collaborate on Woowa Bros.
+- 👯 I’m looking to collaborate on WEMAKEPRICE
 - 📫 How to reach me: pts322@kw.ac.kr
 
 ### Interests
