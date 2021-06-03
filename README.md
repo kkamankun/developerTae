@@ -6,7 +6,7 @@
 ### Interests
 
 - BE, Server, MSA
-- Java, Python, Node.js
+- GAN, Image Inpainting
 - JSP, Spring Framework, Spring Boot
 
 ---
