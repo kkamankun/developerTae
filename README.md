@@ -7,7 +7,7 @@
 
 - BE, Server, MSA
 - GAN, Image Inpainting
-- JSP, Spring Framework, Spring Boot
+- Computer Vision
 
 ---
 [![Tae's github stats](https://github-readme-stats.vercel.app/api?username=developerTae&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
