@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on Kwangwoon Univ. Computer Engineering 💻 (2015.03 ~ )
 - 📫 How to reach me: pts322@kw.ac.kr
-- I have a girl friend. She is so cute. I'm not solo.
-- 
+
 ### Interests
 
 - BE, Server, MSA
