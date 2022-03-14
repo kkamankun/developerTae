@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Kwangwoon Univ. Computer Engineering 💻 (2015.03 ~ )
-- 📫 How to reach me: pts322@kw.ac.kr
+- 🔭 I’m currently working on Korea Univ. (2022.03 ~ )
+- 📫 How to reach me: pts322@korea.ac.kr
 
 ### Interests
 
-- BE, Server, MSA
-- GAN, Image Inpainting
+- Deep Learning
 - Computer Vision
 
 ---
