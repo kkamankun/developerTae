@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Korea Univ. (2022.03 ~ )
-- 📫 How to reach me: pts322@korea.ac.kr
+- 📫 How to reach me: [LinkedIn profile](https://www.linkedin.com/in/taesung-park-312a81204/)
 
 ### Interests
 
